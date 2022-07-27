@@ -1,0 +1,18 @@
+#+#+TITLE: cabrillo-mode.el - A major mode for editing Cabrillo Log files
+
+* Introduction
+
+*Note:* This is currently a 'work in progres'. It being used as a exercise to learn about how to develop major editing modes for Emacs.
+
+Currently, load 'cabrillo-mode.el' into an emacs buffer and execute it.
+
+This mode currently supports:
+- Syntax highlighting
+
+* Notes
+
+The Cabrilla file format specification ca be found here:
+- [[https://wwrof.org/cabrillo/]]
+  
+The 'cabrillo-example.log' file is taken from the CQ World Wide WPX Contest page:
+- [[https://www.cqwpx.com/cabrillo.htm]]
